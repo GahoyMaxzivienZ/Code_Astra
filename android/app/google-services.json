@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "340973726601",
+    "project_id": "javachip-6f8bf",
+    "storage_bucket": "javachip-6f8bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340973726601:android:e9b6857025ca93d0744f58",
+        "android_client_info": {
+          "package_name": "com.example.compapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340973726601-dpk3ajqs2902rq6sl4kmqolkqbgdv7t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.compapp",
+            "certificate_hash": "8e5d6ee967caca30bb424058408d45a8c7d88505"
+          }
+        },
+        {
+          "client_id": "340973726601-rlkkqllmvk8r7i1p9p2nv9v48a6j8mcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNrBeB4qkLEWozZ2jCWH7j2E8R37vVT5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340973726601-rlkkqllmvk8r7i1p9p2nv9v48a6j8mcb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "340973726601-98chskbghlc0fg8vbi28t85n1efpejl0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.compapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
